@@ -1,0 +1,4 @@
+step 1: tìm hiểu lỗi
+stepp2 : tìm xem code ở từ lỗi đấy trong code logic ra trường đấy
+step 3 : search lỗi
+step 4: debug kĩ đi từ ngoài vào trong xem logic đúng ch
